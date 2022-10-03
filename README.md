@@ -1,4 +1,6 @@
 # Homelab Documentation 
+Purpose: Josh's Homelab Notes
+
 ## Resources
 * [PenTestMonkey PHP Reverse Shell](https://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 * [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists)
